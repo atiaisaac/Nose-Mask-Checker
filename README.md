@@ -13,6 +13,8 @@ The various files in this repo include
 3. face detection with opencv and dnn - a folder that contains the caffe model and weights for face detection
 4. nose_mask.tflite the optimized tensorflowlite buffer file optimized to run on a number of edge cpu's. 
 
+Documentation of the entire design and hardware process can be found in my hackster account (visit https://hackster.io/Atia/nose-mask-checker)
+
 
 # Note
 
