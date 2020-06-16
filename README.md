@@ -19,3 +19,8 @@ Documentation of the entire design and hardware process can be found in my hacks
 # Note
 
 This project was done in response to the COVID-19 detect and protect challenge organized by hackster and showcases how enthusiasts can contribute their quota into curbing the crisis. Even though not all of us can be at the forefront like our brave scientist, as individuals we can play our part no matter how small it may seem. You never know who it might have a positive impact on. 
+
+# Credits
+
+Credit goes to;
+* Shubham Rath for their code in face detection with opencv and dnn (https://github.com/sr6033/face-detection-with-OpenCV-and-DNN). It is from here that I got the caffe model and weights file to use.
